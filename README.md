@@ -62,9 +62,9 @@ Make sure you have Python installed on your computer. You can download it from t
     python calculator.py
 2. Follow the on-screen prompts:
 
-Choose the operation you want to perform (addition, subtraction, multiplication, or division).
-Enter the first number.
-Enter the second number.
+   Choose the operation you want to perform (addition, subtraction, multiplication, or division).
+   Enter the first number.
+   Enter the second number.
 
 3. The calculator will display the result of the operation.
    
